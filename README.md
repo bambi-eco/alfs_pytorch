@@ -1,3 +1,5 @@
+> This project is archived: We migrated the pytorch implementation to the main alfs_py implementation (https://github.com/bambi-eco/alfs_py/)
+
 # Python based Airborne Light Field Sampling and Orthographic Projection
 
 A Python-based framework for Airborne Light-Field Sampling (ALFS) data visualization and orthographic projection of geo-referenced drone footage, implemented via **PyTorch**.
